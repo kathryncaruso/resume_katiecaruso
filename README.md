@@ -43,7 +43,6 @@ Education
 2016 - 2020  
 **B.S., Biology**; University of North Carolina, Asheville  
 *Minor: Religious Studies*
-
 Summa Cum Laude, 3.97 GPA
 
 Awards
