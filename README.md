@@ -23,12 +23,11 @@ September 2022 - Present
 **Remote Sensing Researcher**, NASA DEVELOP National Program | Science Systems & Applications, Inc.  
 Vermont & New Hampshire Ecological Forecasting | *NASA Ames Research Center*  
 January - April 2022
-
-> Modeled forest defoliation due to *Lymantria dispar*, an invasive moth, in a four-person team using remote sensing data
-> * Created a Google Earth Engine graphical user interface for federal partners to monitor defolitation in New England
+> Modeled forest defoliation due to the invasive month *Lymantria dispar* in a four-person team using remote sensing data
+> * Created a Google Earth Engine graphical user interface for federal partners to monitor defolitation in New England forests
 > * Communicated research in ArcGIS maps and StoryMaps, oral presentation, and technical paper
 > * Collaborated with four-person team, science advisors and partners to inform forest management  
-> * Processed and analyzed Landsat 5/7/8 and Sentinel-2 satellite data  
+> * Processed and analyzed Landsat 7/8, Sentinel-2, SMAP, and Terra MODIS satellite data  
 
 Carolina Coastal Plain Ecological Forecasting | *University of Georgia Center for Geospatial Research*  
 September - November 2021
