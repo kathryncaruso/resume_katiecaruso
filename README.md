@@ -3,7 +3,7 @@ Katie Caruso
 
 [caruso.k.e@gmail.com](mailto:caruso.k.e@gmail.com)  &nbsp; |  &nbsp; [GitHub](https://github.com/kathryncaruso)  &nbsp; |  &nbsp; [LinkedIn](https://www.linkedin.com/in/carusokatie/)
 
-Ecologist and research scientist with experience addressing environmental and public policy issues through interdisciplinary research projects. Highly skilled at problem-solving technical issues and communicating scientific research to a wide variety of audiences.                
+Ecologist and research scientist with experience addressing environmental and public policy issues through interdisciplinary research projects. Highly skilled at problem-solving technical issues and communicating scientific research to various audiences.                
 
 Experience
 ----------
@@ -11,15 +11,15 @@ Experience
 **North Carolina Fellow**, NASA DEVELOP National Program | Science Systems & Applications, Inc.  
 *NOAA National Centers for Environmental Information*  
 September 2022 - Present
-> As the North Carolina Center Lead and a Communications Fellow, I propose and manage a diverse portfolio of 10-week applied feasibility projects, support program-wide capacity building activities, and communicate research to a wide variety of audiences.
-> * Managing 3–4 project teams of 4–5 participants annually, providing research, mentorship, and supervisory support
-> * Designing cross-disciplinary projects that apply NASA Earth observations and remote sensing research to actionable environmental and public policy decisions
-> * Building and maintaining partnerships with public policy groups including federal agencies, local government, and non-profit organizations
-> * Supporting Software Carpentry Workshops that instruct program participants on introductory and advanced programming in Python
+> As the North Carolina Center Lead and a Communications Fellow, I propose and manage a diverse portfolio of 10-week applied feasibility projects, support program-wide capacity-building activities, and communicate research to various audiences.
+> * Manages 3–4 project teams of 4–5 participants annually, providing research, mentorship, and supervisory support
+> * Designs cross-disciplinary projects that apply NASA Earth observations and remote sensing research to actionable environmental and public policy decisions
+> * Builds and maintains partnerships with public policy groups including federal agencies, local government, and non-profit organizations
+> * Supports Software Carpentry Workshops that instruct program participants on introductory and advanced programming in the Python language
 
 **Summer of Service Program Coordinator**, Conserving Carolina
 May - August 2022
-> * Developed six-week environmental service-learning program to engage young adults in habitat restoration, trail building, and stream restoration
+> * Developed a six-week environmental service-learning program to engage young adults in habitat restoration, trail building, and stream restoration
 > * Mentored Summer of Service crew consisting of four AmeriCorps members to build teamwork, leadership, and professional skills
 > * Ensured physical and emotional safety of crew members and staff during program activities in varied fieldwork conditions
 
